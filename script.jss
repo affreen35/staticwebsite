@@ -1,0 +1,1 @@
+"start": "live-server home"
